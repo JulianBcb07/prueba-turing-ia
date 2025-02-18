@@ -1,0 +1,37 @@
+{
+  "name": "proyecto-turing-ia",
+  "version": "1.0.0",
+  "description": "Página web de fotografía para el periodo de prueba de turing-ia",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JulianBcb07/prueba-turing-ia.git"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "appi-rest"
+  ],
+  "author": "Julian Daniel Bacab Chan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JulianBcb07/prueba-turing-ia/issues"
+  },
+  "homepage": "https://github.com/JulianBcb07/prueba-turing-ia#readme",
+  "dependencies": {
+    "bcryptjs": "^3.0.1",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.10.1",
+    "morgan": "^1.10.0",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
