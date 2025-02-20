@@ -1,6 +1,6 @@
 # Mi Primer Miniproyecto en React 🚀
 
-¡Hola! 👋 Este es mi primer miniproyecto en React. Estoy emocionado de compartir este pequeño paso en mi viaje de aprendizaje con esta tecnología. Aunque es un proyecto sencillo, representa mi primer acercamiento a React y a la construcción de interfaces de usuarios.
+¡Hola! 👋 Este es mi primer miniproyecto en React. Estoy emocionado de compartir este pequeño paso en mi viaje de aprendizaje con esta tecnología. Aunque es un proyecto sencillo, representa mi primer acercamiento a React.
 
 ## ¿Qué hay aquí? 📦
 
