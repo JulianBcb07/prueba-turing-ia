@@ -10,12 +10,11 @@ const router = Router();
 // Ver paquetes disponibles
 router.get("/paquetes", authRequired, getPaquetes, (req, res) => {
 
-    res.send("Mostrando paquetes");
 });
 
 // Ver un paquete en específico
 router.get("/paquetes/:id", authRequired, getPaquete, (req, res) => {
-    res.send("Mostrando paquetes");
+
 });
 
 // Crear un nuevo paquete
